@@ -1,0 +1,16 @@
+{
+  "name": "ck",
+  "version": "1.0.0",
+  "description": "A lightweight convert kit library for JavaScript web apps",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["cli", "convertkit"],
+  "author": "juniorbotelho<https://github.com/juniorbotelho>",
+  "contributors": ["https://github.com/juniorbotelho"],
+  "license": "MIT",
+  "devDependencies": {
+    "vitest": "^0.30.1"
+  }
+}

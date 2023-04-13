@@ -1,2 +1,1 @@
-# ck
-🐞 A lightweight convertkit library for JavaScript web applications
+## Convert Kit SDK JavaScript Library
